@@ -1,0 +1,5 @@
+name: iSoftCrates
+version: 1.0
+api: 3.0.0-ALPHA9
+main: iSoftMC\iSoftCrates\Main
+author: xXNiceYT, Az928
